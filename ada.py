@@ -1,4 +1,4 @@
-def def ada():
+def ada():
     first_name = "AdA"
     last_name = "LoVeLAce"
     
